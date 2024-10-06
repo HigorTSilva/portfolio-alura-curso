@@ -1,0 +1,10 @@
+:root {
+    --cor-fundo: #0b0c0e;
+    --cor-fundo-secundaria: #1f2027;
+    --cor-fundo-terciaria: #252525;
+
+    --cor-action: #9ab2e2;
+    --cor-action-hover: rgb(80, 121, 201);
+
+    --cor-text: #eaeaea;
+}
